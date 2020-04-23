@@ -2,7 +2,7 @@
 Given an input video and a clear image of a person the program can extract all the frames of the person from the video and genrate a summary video.
 
 # Input Image
-	[![Rock](rock.png)]
+![Rock](rock.png)
 	
 # Input Video
 
